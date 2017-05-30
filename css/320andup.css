@@ -559,9 +559,9 @@ blockquote {
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background: #7fcbff;
+  background: #7CA6C2;
   background-size: cover;
-  border-color: #624f8b;
+  border-color: #7CA6C2;
   color: #fff; }
 
 .pattern__cover__logo {
